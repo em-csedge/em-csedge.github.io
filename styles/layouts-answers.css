@@ -1,0 +1,63 @@
+.exercise .row div {
+  border-width: 0px 1px;
+  border-color: gray;
+  border-style: solid;
+  height: 400px;
+}
+
+#exercise1 .col {
+  background-color: lightgray;
+}
+
+
+#exercise2 .column1 {
+  background-color: coral;
+}
+
+#exercise2 .column2 {
+  background-color: cadetblue;
+}
+
+#exercise3 .column1 {
+  background-color: greenyellow;
+}
+
+#exercise3 .column2 {
+  background-color: purple;
+}
+
+#exercise3 .column3 {
+  background-color: orangered;
+}
+
+#exercise4 .column1 {
+  background-color: burlywood;
+}
+
+#exercise4 .column2 {
+  background-color: darkred;
+}
+
+#exercise4 .column3 {
+  background-color: gold;
+}
+
+
+#exercise5 .column1 {
+  background-color: cornflowerblue;
+}
+
+#exercise5 .column2 {
+  background-color: crimson;
+}
+
+#exercise5 .nested-column {
+  background-color: aquamarine;
+}
+
+.tiktok-body .row div {
+  border-width: 0px 1px;
+  border-color: gray;
+  border-style: solid;
+  height: 400px;
+}
